@@ -1,5 +1,10 @@
 # Pharmaceutical Products Supply Chain Management
 
+complete project details are present here:
+
+https://drive.google.com/file/d/1Gv1ZsCZDFlxme19v6-8Ov7pTCrl9m6bV/view?usp=sharing
+
+
 The current pharmaceutical sector is dealing withseveral issues. The pharmaceutical
 sector nowadays isdominated by counterfeit medications. Health research fundinggroups
 estimate that between 10 and 30 percent of thepharmaceuticals in the market are
